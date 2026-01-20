@@ -8,17 +8,15 @@
   </p>
 
   <p>
-    <a href="https://hytalecompanion.com"><strong>🌐 Visit Official Website</strong></a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-features">Explore Features</a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-loot-simulator">Loot Simulator</a>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Game-Hytale-purple?style=flat-square" alt="Hytale" />
-    <img src="https://img.shields.io/badge/Database-1000%2B%20Items-blue?style=flat-square" alt="Items" />
+    <a href="https://hytalecompanion.com">
+      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status" />
+    </a>
+    <a href="https://hytale.com/">
+      <img src="https://img.shields.io/badge/Game-Hytale-purple?style=flat-square" alt="Hytale" />
+    </a>
+    <a href="https://www.hytalecompanion.com/items">
+      <img src="https://img.shields.io/badge/Database-1000%2B%20Items-blue?style=flat-square" alt="Items" />
+    </a>
   </p>
 </div>
 
@@ -33,7 +31,8 @@
    - [Loot Simulator](#-loot-simulator)
    - [Bestiary & Mobs](#-bestiary--mobs)
 3. [Explore the World](#-explore-the-world)
-4. [Visit the Companion](#-visit-the-companion)
+4. [Overlay App](#-overlay-app)
+5. [Data & Disclaimer](#-data--disclaimer)
 
 <br />
 
@@ -86,9 +85,23 @@ Prepare for your journey across the diverse biomes of Orbis.
 
 <br />
 
-## 🚀 Visit the Companion
+## �️ Overlay App
 
-Ready to master Hytale? Access the full suite of tools completely free.
+**Coming Soon!** Bring the database directly into your game with our Overwolf overlay.
+
+<div align="center">
+  <img src="assets/In-game overlay hytale companion app.png" alt="Hytale Companion In-Game Overlay" width="100%" style="border-radius: 10px;" />
+</div>
+
+<br />
+
+## ⚠️ Data & Disclaimer
+
+Most of the data is extracted directly from the game files/assets and then organized and processed for the site. That said, Hytale is still in early access / active development, so a lot of things are incomplete or not fully implemented yet.
+
+Some values are missing, placeholders, or simply don’t exist in the game data at the moment. As development continues, more stats, mechanics, and references should become available, and I’ll keep updating the database as new data appears.
+
+If you notice anything missing or inconsistent, feel free to point it out—feedback really helps! 👍
 
 <div align="center">
   <br />
